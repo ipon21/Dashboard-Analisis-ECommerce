@@ -83,7 +83,7 @@ def Tab_Audrey(df_order_items):
     st.pyplot(fig)
 
     with st.expander("Penjelasan Penjualan 5 produk terlaris, mencari seller yang menjual produk terlaris dan berapa penghasilan seller tersebut.") :
-        st.markdown('''**Dapat disimpulkan 5 produk terlaris yaitu**:
+        st.markdown('''**Dapat disimpulkan 5 produk terlaris yaitu : **:
     1. aca2eb7d00ea1a7b8ebd4e68314663af    527
     2. 99a4788cb24856965c36a24e339b6058    488
     3. 422879e10f46682990de24d770e7f83d    484
