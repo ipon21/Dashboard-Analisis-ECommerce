@@ -91,7 +91,7 @@ def Tab_Audrey(df_order_items):
     5. 368c6c730842d78016ad823897a372db    388''')
         st.markdown('''**Seller yang mejual id produk tersebut adalah : 955fee9216a65b617aa5c0531780ce60**:
     ''')
-        st.markdown('''**Penghasilan seller tersebut : 135171.7 **:
+        st.markdown('''**Penghasilan seller tersebut : 135171.7**:
     ''')
         
     st.write('<hr>', unsafe_allow_html=True)
